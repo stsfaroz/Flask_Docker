@@ -5,7 +5,7 @@ check the above article for better understanding
 
 # Building an ML Model with Flask and Docker
 
-This repository contains an example of building a Machine Learning (ML) model using Flask and Docker. Flask is a popular web framework in Python for building web applications, while Docker is a platform for building, shipping, and running applications in containers.
+This repository contains an example of building a Machine Learning (ML) model using Flask and Docker.
 
 ## Prerequisites
 
@@ -52,7 +52,6 @@ python test.py
 ```
 
 
-This command runs a Python script that sends a test request to the application and prints the response. The test script is located in the "tests" directory.
-
+This command runs a Python script that sends a test request to the application and prints the response.
 
 
