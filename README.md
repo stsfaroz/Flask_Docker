@@ -1,3 +1,8 @@
+# Article 
+[ML model Containerization using Docker and Flask](https://salmanfaroz.medium.com/ml-model-containerization-using-docker-and-flask-b09adf780bd3)
+
+check the above article for better understanding
+
 # Building an ML Model with Flask and Docker
 
 This repository contains an example of building a Machine Learning (ML) model using Flask and Docker. Flask is a popular web framework in Python for building web applications, while Docker is a platform for building, shipping, and running applications in containers.
